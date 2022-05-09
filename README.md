@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate python developer from Germany, with reverse engineering skills!</h3>
+<h3 align="center">A passionate python developer with reverse engineering skills from Germany!</h3>
 
 <p align="center"> <img src="http://skyridge.eu/picture_resources/skyridgebanner2.png" alt="jfuqx" /> </p>
 
@@ -11,8 +11,8 @@
 
 - 🔭 I’m currently working on [SkyridgeScripts | SkyridgeAIO | SkyridgeSNKRS](https://www.skyridge.eu)
 
-- 📫 How to reach me **j.reinecke@skyridge.eu**
-
+- ⚡ Email: **j.reinecke@skyridge.eu**
+- ⚡ Discord: John*#6891
 - ⚡ Fun fact **I have DRIP**
 
 <h3 align="left">Connect with me:</h3>
