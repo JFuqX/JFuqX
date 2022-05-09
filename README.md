@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A passionate python developer from Germany, with reverse engineering skills!</h3>
 
-<p align="center"> <img src="http://skyridge.eu/picture_resources/skyridgebanner4.png" alt="jfuqx" /> </p>
+<p align="center"> <img src="http://skyridge.eu/picture_resources/skyridgebanner2.png" alt="jfuqx" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfuqx&label=Profile%20views&color=0e75b6&style=flat" alt="jfuqx" /> </p>
 
