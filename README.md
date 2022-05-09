@@ -11,10 +11,6 @@
 
 - 🔭 I’m currently working on [SkyridgeScripts | SkyridgeAIO | SkyridgeSNKRS](https://www.skyridge.eu)
 
-- 👯 I’m looking to collaborate on **Any webautomation projects**
-
-- 💬 Ask me about anything about **PYTHON and Webautomation**
-
 - 📫 How to reach me **j.reinecke@skyridge.eu**
 
 - ⚡ Fun fact **I have DRIP**
