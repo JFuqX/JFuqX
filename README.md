@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Any webautomation projects**
 
-- 💬 Ask me about **PYTHON**
+- 💬 Ask me about anything about **PYTHON and Webautomation**
 
 - 📫 How to reach me **j.reinecke@gmail.com**
 
