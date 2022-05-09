@@ -15,7 +15,7 @@
 
 - 💬 Ask me about anything about **PYTHON and Webautomation**
 
-- 📫 How to reach me **j.reinecke@gmail.com**
+- 📫 How to reach me **j.reinecke@skyridge.eu**
 
 - ⚡ Fun fact **I have DRIP**
 
