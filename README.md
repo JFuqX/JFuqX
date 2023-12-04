@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/j0hndev" target="blank"><img src="https://img.shields.io/twitter/follow/j0hndev?logo=twitter&style=for-the-badge" alt="j0hndev" /></a> </p>
 
-- 🔭 I’m currently working on [SkyridgeScripts | SkyridgeAIO | SkyridgeSNKRS](https://www.skyridge.eu)
+- 🔭 I’m currently working on [SkyridgeScripts | TaranisSNKRS](https://www.taranissnkrs.eu)
 
 - ⚡ Email: **j.reinecke@skyridge.eu**
 - ⚡ Discord: John*#6891
-- ⚡ Fun fact **I have DRIP**
+- ⚡ Owner of **[TaranisSNKRS](https://www.taranissnkrs.eu) and [SkyridgeScripts](https://www.skyridge.eu)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
