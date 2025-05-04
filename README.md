@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate python developer with reverse engineering skills from Germany!</h3>
+<h3 align="center">A passionate developer with reverse engineering skills from Germany!</h3>
 
 <p align="center"> <img src="http://skyridge.eu/picture_resources/skyridgebanner2.png" alt="jfuqx" /> </p>
 
